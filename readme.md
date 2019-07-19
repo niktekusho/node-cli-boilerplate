@@ -17,7 +17,7 @@ $ npm install -g cli-name
 You can also use `yarn`:
 
 ```sh
-$ yarn add global cli-name
+$ yarn global add cli-name
 ```
 
 ## Usage
