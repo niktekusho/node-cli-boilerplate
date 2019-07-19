@@ -12,7 +12,4 @@ const cli = meow(`
 
 meowShortcuts(cli);
 
-app(cli.input, cli.flags)
-	.then(() => {
-		console.log('Function exited correctly!');
-	}).catch(console.error);
+app(cli.input, cli.flags);
