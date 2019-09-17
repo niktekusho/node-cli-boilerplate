@@ -7,8 +7,8 @@
     },
     "license": "MIT",
     "devDependencies": {
-        "jest": "^24.8.0",
-        "np": "^5.0.3",
+        "jest": "^24.9.0",
+        "np": "^5.1.0",
         "xo": "^0.24.0"
     },
     "engines": {
@@ -46,6 +46,6 @@
     },
     "dependencies": {
         "meow": "^5.0.0",
-        "meow-shorts": "^0.0.1-0"
+        "meow-shorts": "^1.0.0"
     }
 }
