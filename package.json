@@ -14,6 +14,9 @@
     "engines": {
         "node": ">=8"
     },
+    "files": [
+        "index.d.ts"
+    ],
     "scripts": {
         "release": "np",
         "test": "xo && jest"
